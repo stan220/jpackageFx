@@ -22,7 +22,3 @@ jobs:
         with:
           name: FxDemoApp-${{matrix.os}}
           path: staging
-
-
-
-
